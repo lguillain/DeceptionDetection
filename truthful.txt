@@ -1,0 +1,121 @@
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_001.mp4 | Lawyer / The innocence project          |  NA                         |  http://www.innocenceproject.org            |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_002.mp4 | Lawyer / The innocence project          |  NA                         |  http://www.innocenceproject.org            |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_003.mp4 | Defendant / Andrea Sneiderman           | Guilty                      | https://www.youtube.com/watch?v=zJvJ-2H7iTg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_004.mp4 | Defendant / Andrea Sneiderman           | Guilty                      | https://www.youtube.com/watch?v=zJvJ-2H7iTg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_005.mp4 | Defendant / Andrea Sneiderman           | Guilty                      | https://www.youtube.com/watch?v=zJvJ-2H7iTg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_006.mp4 | Defendant / Andrea Sneiderman           | Guilty                      | https://www.youtube.com/watch?v=zJvJ-2H7iTg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_007.mp4 | Defendant / Andrea Sneiderman           | Guilty                      | https://www.youtube.com/watch?v=zJvJ-2H7iTg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_008.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_008.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_010.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_011.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_012.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_013.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_014.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_015.mp4 | Witness / Jodi Arias                    | Guilty                      | https://www.youtube.com/watch?v=FT28C3b5GKA |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_016.mp4 | Defendant / Fernando Bermudez           | Exonerated                  | https://www.youtube.com/watch?v=POzozR1-xRc |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_017.mp4 | Defendant / Fernando Bermudez           | Exonerated                  | https://www.youtube.com/watch?v=POzozR1-xRc |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_018.mp4 | Defendant / Chris Ochoa                 | Exonerated                  | https://www.youtube.com/watch?v=0xJlsxCGw9w |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_019.mp4 | Defendant / Chris Ochoa                 | Exonerated                  | https://www.youtube.com/watch?v=0xJlsxCGw9w |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_020.mp4 | Defendant / Steven Barnes               | Exonerated                  | https://www.youtube.com/watch?v=XhjGV7qATWw |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_021.mp4 | Defendant / Randy Mills                 | Exonerated                  | https://www.youtube.com/watch?v=hxJ3CmPKn6I |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_022.mp4 | Defendant / Marvin Anderson             | Exonerated                  | https://www.youtube.com/watch?v=_DSS18Prxmo |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_023.mp4 | Defendant / Alan Newton                 | Exonerated                  | https://www.youtube.com/watch?v=E2PpqxrFBpo |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_024.mp4 | Defendant / Ken Wyniemko                | Exonerated                  | https://www.youtube.com/watch?v=B_sQAlIIYiM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_025.mp4 | Defendant / Ken Wyniemko                | Exonerated                  | https://www.youtube.com/watch?v=B_sQAlIIYiM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_026.mp4 | Defendant / Mitchelle Blair             | Guilty                      | https://www.youtube.com/watch?v=PEJfPLK5YsY |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_027.mp4 | Prosecutor Witness / Martin Macneill    | Guilty                      | https://www.youtube.com/watch?v=O467AXiC-4I |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_028.mp4 | Witness / Donna Scrivo                  | Guilty                      | https://www.youtube.com/watch?v=WfS3TlHzIjw |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_029.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=pSthDg5pF9M |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_030.mp4 | Witness / James Boyd                    | Officer charged with murder | https://www.youtube.com/watch?v=zWZNfycJWtM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_031.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=pSthDg5pF9M |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_032.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=pSthDg5pF9M |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_033.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=pSthDg5pF9M |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_034.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=pSthDg5pF9M |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_035.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=rorTrZ9FGQ0 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_036.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=rorTrZ9FGQ0 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_037.mp4 | Witness / Jonathan Santillan            | Guilty                      | https://www.youtube.com/watch?v=QeCGOCUBCFk |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_038.mp4 | Witness / Bessman Okafor                | Guilty                      | https://www.youtube.com/watch?v=B4CzIRwbkIU |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_039.mp4 | Witness / Jamie Hood                    | Guilty                      | https://www.youtube.com/watch?v=SsLVmhaUWM4 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_040.mp4 | Witness / Jamie Hood                    | Guilty                      | https://www.youtube.com/watch?v=hQ1KE1E5Hg0 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_041.mp4 | Defendant / James Boyd                  | Officer charged with murder | https://www.youtube.com/watch?v=1FAB5bE8Jqg |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_042.mp4 | Witness / James Boyd                    | Officer charged with murder | https://www.youtube.com/watch?v=zHyqIG5xASc |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_043.mp4 | Witness / James Boyd                    | Officer charged with murder | https://www.youtube.com/watch?v=D57ybzTYOpQ |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_044.mp4 | Witness / Charles and Kimberly Matthews | Not Guilty                  | https://www.youtube.com/watch?v=Z3OHdiUgIsY |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_045.mp4 | Witness / Charles and Kimberly Matthews | Not Guilty                  | https://www.youtube.com/watch?v=Z3OHdiUgIsY |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_046.mp4 | Witness / Charles and Kimberly Matthews | Not Guilty                  | https://www.youtube.com/watch?v=Z3OHdiUgIsY |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_047.mp4 | Witness / Charles and Kimberly Matthews | Not Guilty                  | https://www.youtube.com/watch?v=yvrmul6o06c |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_048.mp4 | Witness / Charles and Kimberly Matthews | Not Guilty                  | https://www.youtube.com/watch?v=yvrmul6o06c |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_049.mp4 | Witness /  Mitchelle Blair              | Guilty                      | https://www.youtube.com/watch?v=Pils_MUrybI |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_050.mp4 | Witness / Carlos Riley                  | Not Guilty                  | https://www.youtube.com/watch?v=C6EA57XPQS0 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_051.mp4 | Victim / Owen Labrie                    | Guilty                      | https://www.youtube.com/watch?v=1d05WATyLY8 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_052.mp4 | Witness / Edgar Collazo                 | Guilty                      | https://www.youtube.com/watch?v=tfPqy_CpYy4 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_053.mp4 | Defendant / Crystal Mangum              | Guilty                      | https://www.youtube.com/watch?v=t3nuzZR6tUw |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_054.mp4 | Defendant / Jodi Arias                  | Guilty                      | https://www.youtube.com/watch?v=AFIfLA0LmbM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_055.mp4 | Defendant / Jodi Arias                  | Guilty                      | https://www.youtube.com/watch?v=AFIfLA0LmbM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_056.mp4 | Defendant / Jodi Arias                  | Guilty                      | https://www.youtube.com/watch?v=AFIfLA0LmbM |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_057.mp4 | Defendant / Amanda Hayes                | Guilty                      | https://www.youtube.com/watch?v=q98xXFR2Q28 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_058.mp4 | Defendant / Amanda Hayes                | Guilty                      | https://www.youtube.com/watch?v=q98xXFR2Q28 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_059.mp4 | Defendant / Amanda Hayes                | Guilty                      | https://www.youtube.com/watch?v=q98xXFR2Q28 |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
+| trial_truth_060.mp4 | Defendant / Crystal Mangum              | Guilty                      | https://www.youtube.com/watch?v=t3nuzZR6tUw |
++---------------------+-----------------------------------------+-----------------------------+---------------------------------------------+
